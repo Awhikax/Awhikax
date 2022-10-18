@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Awhikax
+- 👋 Hi, I’m [@Awhikax](https://github.com/Awhikax)
 - 👀 I’m interested in games, space and poneys
 - 🌱 I’m currently learning computer engineering
 - 📫 How to reach me: contact@awhikax.com
